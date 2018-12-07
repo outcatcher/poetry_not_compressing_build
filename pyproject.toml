@@ -1,0 +1,10 @@
+[tool.poetry]
+name = "poetry_build_not_compressed"
+version = "0.1.0"
+description = ""
+authors = ["Anton Kachurin <katchuring@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+
+[tool.poetry.dev-dependencies]
